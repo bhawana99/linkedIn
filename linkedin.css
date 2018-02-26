@@ -1,8 +1,11 @@
-.container1
+
+*{
+	box-sizing:border-box;
+}.container1
 {
-	width:25%;
+	width:400px;
 	border:1px solid white;
-    margin-top:30px;
+        margin-top:30px;
 	margin-left:35%;
 	box-sizing:border box;
 }
