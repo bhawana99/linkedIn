@@ -46,6 +46,7 @@ input[type=submit]{
 	margin:0px 0px 0px 12.5px;
 	width:93%;
 	height:30px;
+	cursor:pointer;
 }
 .container3
 {
