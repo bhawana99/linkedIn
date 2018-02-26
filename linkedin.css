@@ -1,12 +1,16 @@
 
 *{
-	box-sizing:border-box;
-}.container1
+	box-sizing:border-box:
+}
+.container1
 {
 	width:410px;
 	border:1px solid white;
-        margin:auto;
+    margin:auto;
 	box-sizing:border box;
+}
+body{
+	color:white;
 }
 form
 {
@@ -18,7 +22,7 @@ form
 	color:white;
 	padding-left:120px;
 	padding-top:20px;
-	height:50px;
+	height:60px;
 	font-size:200%;
 	font-family:sans-serif;
 }
