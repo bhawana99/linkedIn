@@ -4,9 +4,10 @@
 }
 .container1
 {
-	width:380px;
+	width:100%;
+	max-width:380px;
 	border:1px solid white;
-    margin:auto;
+        margin:auto;
 	box-sizing:border box;
 }
 body{
